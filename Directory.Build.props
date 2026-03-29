@@ -17,6 +17,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IsPackable>false</IsPackable>
     <ImplicitUsings>true</ImplicitUsings>
+    <Nullable>enable</Nullable>
     <WarningsAsErrors>true</WarningsAsErrors>
     <AnalysisMode>Recommended</AnalysisMode>
   </PropertyGroup>
