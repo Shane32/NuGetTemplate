@@ -8,6 +8,7 @@
     <Authors>John Doe</Authors>
     <PackageIcon>logo.png</PackageIcon>
     -->
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>git</RepositoryType>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
